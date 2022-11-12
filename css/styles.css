@@ -1,0 +1,35 @@
+.container{
+    background-color: #e0e0e0;
+    margin: 20px auto;
+    max-width: 1000px;
+    box-shadow:  0px 0px 5px gray;
+    height: 100%;
+    padding: 0px;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px ;
+    padding-top: 30px;
+}
+.mainInformation{
+    font-size: 24px;
+    margin: 0px 25px;
+    padding: 20px 0px;
+}
+.image{
+    width: 60%;
+    display: block;
+    height: 100%;
+    margin: auto;
+    padding: 20px 0px;
+}
+.navbar{
+    box-shadow:  0px 0px 5px gray;
+}
+.modelText{
+    margin: auto;
+}
+.nav-item{
+    padding: 10px;
+}
